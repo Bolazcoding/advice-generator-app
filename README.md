@@ -40,7 +40,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Bolazcoding/advice-generator-app)
-- Live Site URL: [Live site URL](https://loopstudios-landing-page-dun.vercel.app/)
+- Live Site URL: [Live site URL](https://josedev-advice-generator-app.netlify.app/)
 
 ## My process
 
