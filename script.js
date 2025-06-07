@@ -11,7 +11,7 @@ const adviceGenerator = async function () {
 
     const markup = `
         <div class="advice-body">
-          <p class="advice-index">Advice ${data.slip.id}</p>
+          <h1 class="advice-index">Advice ${data.slip.id}</h1>
           <p class="advice-text">
             ${data.slip.advice}
           </p>

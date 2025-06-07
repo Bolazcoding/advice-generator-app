@@ -46,7 +46,7 @@ body {
   height: 2.4rem;
   position: absolute;
   cursor: pointer;
-  transition: box-shadow 0.3s ease;
+  transition: box-shadow 0.3s ease-in-out;
 }
 
 .btn-change-advice:hover::after {
@@ -106,6 +106,6 @@ body {
 
   .btn-change-advice::after {
     left: 40%;
-    padding: 2.1rem;
+    padding: 2rem;
   }
 }
